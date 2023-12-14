@@ -24,4 +24,4 @@ Contribuições são bem-vindas! Se você quiser melhorar o CarBlog, sinta-se à
 ## Autor
 
 [Emanuel Brasil]
-- GitHub: [https://github.com/EmanuelBrasilDev](https://github.com/seu-usuario)
+- GitHub: [https://github.com/EmanuelBrasilDev]
