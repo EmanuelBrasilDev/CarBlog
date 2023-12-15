@@ -14,7 +14,7 @@ O CarBlog foi desenvolvido como parte de um projeto pessoal, com o objetivo de c
 
 ## Como Executar o Projeto
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/carblog.git`
+1. Clone este repositório: `git clone https://github.com/EmanuelBrasilDev/CarBlog.git`
 2. Abra o arquivo `home.html` em seu navegador web.
 
 ## Contribuições
@@ -24,4 +24,4 @@ Contribuições são bem-vindas! Se você quiser melhorar o CarBlog, sinta-se à
 ## Autor
 
 [Emanuel Brasil]
-- GitHub: [https://github.com/EmanuelBrasilDev]
+- GitHub: https://github.com/EmanuelBrasilDev
